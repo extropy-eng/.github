@@ -1,1 +1,1 @@
-![Extropy Engineering](../images/banner.png)
+![Extropy Engineering](../images/social.png)
